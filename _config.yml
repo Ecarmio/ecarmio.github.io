@@ -12,7 +12,7 @@ site_theme               : "dark"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Akshay Sanal"
-description              : &description "Random Kid with Random Skill....Intrest in Coding"
+description              : &description "Random Kid with Random Skill....Intrested in Coding"
 url                      : "" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "https://ecarmio.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "Ecarmio/ecramio.github.io"
@@ -29,7 +29,7 @@ author:
   location         : "Kerala,India"
   employer         : "Navy Children School,Kochi"
   uri              : #"https://www.instagram.com/aza._yo/"
-  email            : "akshaysanal2035@gmail.com" 
+  email            : "akshaysanal2035@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #URL
   researchgate     : # URL
   scopus           : # URL
 
