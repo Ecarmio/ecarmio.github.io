@@ -28,7 +28,7 @@ author:
   bio              : "Bullshit ahh Website"
   location         : "Kerala,India"
   employer         : "Navy Children School,Kochi"
-  uri              : "https://www.instagram.com/aza._yo/"
+  uri              : #"https://www.instagram.com/aza._yo/"
   email            : "akshaysanal2035@gmail.com" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
