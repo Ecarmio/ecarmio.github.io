@@ -39,3 +39,7 @@ jobs:
         with:
           branch: gh-pages  # Deploy to the gh-pages branch
           folder: dist  
+          clean: true  
+      - name: Add .nojekyll file
+        run: echo > dist/.nojekyll  # Ensure it's created before deployment
+        
